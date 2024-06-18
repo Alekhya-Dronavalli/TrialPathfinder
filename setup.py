@@ -16,6 +16,5 @@ setup(
         'numpy',
         'pandas',
         'lifelines',
-        'sklearn'
     ],
 )
