@@ -9,7 +9,7 @@ setup(
     packages=['TrialPathfinder'],
     license='MIT',
     description = 'Python library for systematic evaluation of clinical trial eligibility criteria.',
-    url = 'https://github.com/RuishanLiu/TrialPathfinder',
+    url = 'https://github.com/Alekhya-Dronavalli/TrialPathfinder',
     author = 'Ruishan Liu',
     author_email = 'ruishan@stanford.edu',
     install_requires=[
